@@ -30,6 +30,12 @@ public class MainActivity extends AppCompatActivity {
                     t.show();
 
                 }
+                if(time.equals("=0")){
+                    Toast t = Toast.makeText(MainActivity.this,
+                            "Time must be greater than zero",
+                            Toast.LENGTH_LONG);
+                    t.show();
+                }
             }
 
         });
