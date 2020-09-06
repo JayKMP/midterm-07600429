@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SPEED CALCULATOR</string>
+    <string name="km">Enter distance (meter)</string>
+    <string name="time">Enter time (second)</string>
+    <string name="clear">CLEAR</string>
+    <string name="cal">CALCULATOR</string>
+    <string name="mean">Average Speed (km/h)</string>
 </resources>
